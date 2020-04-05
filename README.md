@@ -1,2 +1,1 @@
-# hello-world
-Demo
+Simple snake game for browsers.
